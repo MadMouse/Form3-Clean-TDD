@@ -8,7 +8,7 @@ TDD to implement the usercases.
 
 Rest Architecture : 
 
-![Task Document](https://github.com/MadMouse/Form3-Clean-TDD/blob/master/Documents/o%20Fetch%20payment%20resources.docx)
+![Task Document](https://github.com/MadMouse/Form3-Clean-TDD/blob/master/Documents/back-end_developer_-_api_coding_exercise.pdf)
 
 ![Rest Architecture](https://github.com/MadMouse/Form3-Clean-TDD/blob/master/Documents/payments-architector.pdf)
 
