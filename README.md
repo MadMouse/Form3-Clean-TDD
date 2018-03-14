@@ -6,6 +6,12 @@ The following example is based on the Tech Test supplied by Form 3.
 The code architecture is based on the  "Clean Design Pattern" then using 
 TDD to implement the usercases.
 
+Rest Architecture : 
+
+![Task Document](https://github.com/MadMouse/Form3-Clean-TDD/blob/master/Documents/o%20Fetch%20payment%20resources.docx)
+
+![Rest Architecture](https://github.com/MadMouse/Form3-Clean-TDD/blob/master/Documents/payments-architector.pdf)
+
 ![Clean Architecture Diagram](https://github.com/MadMouse/Form3-Clean-TDD/blob/master/Documents/clean_arch.png)
 
 #### Notes : 
